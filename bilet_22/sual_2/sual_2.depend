@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705498589 source:c:\users\user\onedrive\documents\vscode works\learnc\imtahan\bilet_22\sual_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
